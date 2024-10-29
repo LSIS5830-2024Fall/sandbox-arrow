@@ -18,7 +18,6 @@ home-banner-image-position: # Default is center
 # ITEM PAGE
 #
 # see _data/metadata-config.csv to define the metadata fields that will display.
-featured-image: psychiana019.jpg
 browse-buttons: true # true/false, adds previous/next arrows to item pages
 
 ##########
