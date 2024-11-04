@@ -13,7 +13,7 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection" %}
 
 ## About the Collection
-This site is a sandbox demo by Arrow Salkeld. This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This site is a sandbox demo by Arrow Salkeld and is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
